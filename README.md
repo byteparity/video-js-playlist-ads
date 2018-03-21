@@ -7,5 +7,6 @@ Demo for Video JS integration with Playlist &amp; Ads plugin
 - videojs-playlist
 - videojs-Youtube
 
+
 # Made with Love by
 [ByteParity Technologies](https://byteparity.com/)
